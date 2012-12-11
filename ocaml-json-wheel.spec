@@ -70,3 +70,29 @@ rm -rf %{buildroot}
 %{_libdir}/ocaml/json-wheel/*.mli
 %{_libdir}/ocaml/json-wheel/*.ml
 
+
+
+%changelog
+* Wed May 09 2012 Crispin Boylan <crisb@mandriva.org> 1.0.6-6
++ Revision: 797734
+- Rebuild
+
+  + Oden Eriksson <oeriksson@mandriva.com>
+    - relink against libpcre.so.1
+
+* Mon Sep 14 2009 Florent Monnier <blue_prawn@mandriva.org> 1.0.6-4mdv2011.0
++ Revision: 440725
+- rebuild
+
+* Sun Jun 28 2009 Guillaume Rousse <guillomovitch@mandriva.org> 1.0.6-3mdv2010.0
++ Revision: 390244
+- rebuild
+
+* Thu Jun 11 2009 Florent Monnier <blue_prawn@mandriva.org> 1.0.6-2mdv2010.0
++ Revision: 385276
+- increm rel nb
+
+* Tue Jan 27 2009 Florent Monnier <blue_prawn@mandriva.org> 1.0.6-1mdv2009.1
++ Revision: 334587
+- import ocaml-json-wheel
+
