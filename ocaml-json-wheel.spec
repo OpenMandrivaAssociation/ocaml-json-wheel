@@ -4,7 +4,7 @@
 Summary:	OCaml library for parsing JSON
 Name:		ocaml-json-wheel
 Version:	1.0.6
-Release:	7
+Release:	8
 License:	BSD
 Group:		Development/Other
 Url:		http://martin.jambon.free.fr/json-wheel.html
