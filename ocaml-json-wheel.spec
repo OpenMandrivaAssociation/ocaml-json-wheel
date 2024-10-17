@@ -7,7 +7,7 @@ Version:	1.0.6
 Release:	8
 License:	BSD
 Group:		Development/Other
-Url:		http://martin.jambon.free.fr/json-wheel.html
+Url:		https://martin.jambon.free.fr/json-wheel.html
 Source0:	http://martin.jambon.free.fr/json-wheel-%{version}.tar.bz2
 BuildRequires:	ocaml
 BuildRequires:	ocaml-findlib-devel
