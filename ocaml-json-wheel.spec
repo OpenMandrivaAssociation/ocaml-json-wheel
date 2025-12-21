@@ -9,6 +9,7 @@ License:	BSD
 Group:		Development/Other
 Url:		https://martin.jambon.free.fr/json-wheel.html
 Source0:	http://martin.jambon.free.fr/json-wheel-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	ocaml
 BuildRequires:	ocaml-findlib-devel
 BuildRequires:	ocaml-ocamlnet-devel
